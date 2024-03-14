@@ -24,7 +24,7 @@
   "scripts": {
     "test": "xo"
   },
-  "repository": "https://github.com/xxczaki/oji",
+  "repository": "https://github.com/0xiaoluli0/teatask/oji",
   "keywords": [
     "oji",
     "emoji",
@@ -38,7 +38,7 @@
   "author": "Antoni Kepinski <a@kepinski.me> (https://kepinski.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xxczaki/oji/issues"
+    "url": "https://github.com/0xiaoluli0/teatask/oji/issues"
   },
-  "homepage": "https://github.com/xxczaki/oji#readme"
+  "homepage": "https://github.com/0xiaoluli0/teatask/oji#readme"
 }
