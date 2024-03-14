@@ -1,0 +1,16 @@
+build: off
+
+matrix:
+  fast_finish: true
+
+platform:
+  - x64
+
+install:
+  - ps: Install-Product node ''
+  - npm install -g npm
+  - npm install 
+
+test_script:
+- node --version && npm --version
+- npm test
